@@ -22,8 +22,5 @@ BiggestFileFinder is a Java desktop application that helps you identify the larg
 - Java 12 or higher
 - Eclipse IDE or any Java IDE (project files included for Eclipse)
 
-## Project Structure
-[Details about project structure can be added here if provided]
-
 ## License
 This project is provided as-is for educational and personal use.
